@@ -13,11 +13,12 @@ const App = () => {
   return (
     <div id="main">
       <Heading />
-      <InputQuery />
       <SubHeading />
+      <InputQuery />
       <SubmitButton />
     </div>
   )
 }
+export default App;
 
 
